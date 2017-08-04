@@ -11,7 +11,7 @@ I've noticed some strange behavior copying and pasting code from Sublime Text in
 
 Below is a screenshot of the issue I've been having when I try to copy/paste from Sublime Text into irb.  Notice how irb shows "Display all 345 possibilities? (y or n)."  When this happens, irb does not allow you to enter your code and continue testing.
 
-<p><img src="http://imgur.com/a/0smo4.png"></p>
+<img src="http://i.imgur.com/nAHGddi.png">
 
 What's happening is that the default formatting of tabs in Sublime Text are causing a problem when they're copy/pasted into irb.  Notice in the screenshot below, with the text highlighted, that the indents before each line of code are displayed as solid lines.  This indicates a tab in Sublime Text, and this is what is causing the issue.
 
