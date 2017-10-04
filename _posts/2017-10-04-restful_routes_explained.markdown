@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "RESTful Routes Explained"
-date:       2017-10-04 14:40:26 +0000
+title:      "What are RESTful Routes?"
+date:       2017-10-04 10:40:26 -0400
 permalink:  restful_routes_explained
 ---
 
