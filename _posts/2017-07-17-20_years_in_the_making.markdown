@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "20 Years in the Making"
-date:   2017-07-17 01:27:55 +0000
+title:      "20 Years in the Making"
+date:       2017-07-16 21:27:55 -0400
+permalink:  20_years_in_the_making
 ---
 
 
@@ -15,10 +16,6 @@ Anyway, I decided at the end of college that law school wasn't for me.  The idea
 
 After about a year, I took a job in customer support at a survey software company.  I had gotten really interested in tech startups, and decided that one day I would start my own.  And what better way to learn about startups than to work for one?  
 
-I enjoyed teaching others how to use the software, testing it to find bugs, and working with the engineers to make sure things worked the way they were supposed to, and that our users were happy.  I loved interacting with customers, submitting ideas for new features to our product team, and seeing those features built and eventually used by real people.  I did very well, and grew into various roles in the company, from project management to account management to sales.  Wherever the company needed someone, that's where I went.
+I enjoyed teaching others how to use the software, testing it to find bugs, and working with the engineers to make sure things worked the way they were supposed to, and that our users were happy.  I loved interacting with customers, submitting ideas for new features to our product team, and seeing those features built and eventually used by real people.  I did very well, and grew into various roles in the company, from project management to account management, and finally to sales.  Wherever the company needed someone, that's where I went, and I learned a ton along the way.
 
-But I realized somewhere along the way that I wasn't following my passion, and that there's a huge distinction between being succesful and being fulfilled.  And I realized very recently what should have been obvious to me for years.  
-
-My passion is code.  It's what I spend my time doing after a long, tiring day of work.  It's what I enjoyed studying in college, when I wasn't fooling myself about wanting to be a lawyer.  And it's what I loved as a 13 year old kid at the dawn of the internet.
-
-It just took me 20 years to figure it out...
+The opportunity to work at a software company confirmed for me that this is the world I want to be in, and that I want to be able to write the code, or at least understand the code, behind the products being built.  So now, 20 years after my first experience with coding, I'm diving in head first.  And I'm excited about what the future holds!
